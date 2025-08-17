@@ -18,7 +18,7 @@ Built with Python 3.10.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 emotion_music_player/
 │-- songs/
 │ │-- happy/
@@ -44,5 +44,6 @@ emotion_music_player/
 │
 │-- main.py # Main script
 │-- README.md
+
 
 
